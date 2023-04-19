@@ -2,6 +2,10 @@
 
 ### 社区资料
 
+- [链眼-https://chaineye.info/arctle_detail?article_id=530](https://chaineye.info/arctle_detail?article_id=530)
+- [链眼-KZG 多项式承诺](https://chaineye.info/arctle_detail?article_id=591)
+- [链眼-KZG 多项式承诺方案的分析：KZG10、IPA、FRI 和 DARKS](https://chaineye.info/arctle_detail?article_id=590)
+
 
 ### vitalik [系列博客](https://vitalik.ca/)
 
