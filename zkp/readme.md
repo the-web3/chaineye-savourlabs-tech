@@ -5,6 +5,7 @@
 
 ### 论文和资料
 
+- [如何向您的孩子解释零知识协议](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
 - [PLONK](https://eprint.iacr.org/2019/953.pdf)
 - [PLOOKUP](https://eprint.iacr.org/2019/953.pdf)
 - [KZG10](https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf)
