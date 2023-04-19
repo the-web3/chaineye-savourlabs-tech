@@ -3,9 +3,11 @@
 ### 社区资料
 
 
-### 博客
+### vitalik [系列博客](https://vitalik.ca/)
 
 - [V 神的理解 plonk 文章](https://vitalik.ca/general/2019/09/22/plonk.html)
+- [V 神的使用 ZK-SNARKs 保护隐私的一些方法](https://vitalik.ca/general/2022/06/15/using_snarks.html)
+- [V 神zk-SNARKs 是如何成为可能的大致介绍](https://vitalik.ca/general/2021/01/26/snarks.html)
 
 
 ### 论文和资料
