@@ -49,6 +49,7 @@
 - [ConsenSys](https://github.com/ConsenSys)
 - [StarkWare](https://github.com/starkware-libs/)
 - [taikoxyz](https://github.com/taikoxyz)
+- [zcash](https://github.com/zcash)
 
 
 ### 代码解析
