@@ -3,6 +3,10 @@
 ### 社区资料
 
 
+### 博客
+
+- [V 神的理解 plonk 文章](https://vitalik.ca/general/2019/09/22/plonk.html)
+
 
 ### 论文和资料
 
