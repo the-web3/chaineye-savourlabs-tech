@@ -29,6 +29,8 @@
 - [KZG10](https://www.iacr.org/archive/asiacrypt2010/6477178/6477178.pdf)
 - [halo2](https://zcash.github.io/halo2/index.html)
 - [Poseidon 哈希论文](https://eprint.iacr.org/2019/458.pdf)
+- [zkTree: A Zero-Knowledge Recursion Tree with ZKP Membership Proofs](https://eprint.iacr.org/2023/208.pdf)
+- 
 
 ### 代码库
 
