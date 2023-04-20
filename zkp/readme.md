@@ -16,6 +16,8 @@
 - [V 神的使用 ZK-SNARKs 保护隐私的一些方法](https://vitalik.ca/general/2022/06/15/using_snarks.html)
 - [V 神zk-SNARKs 是如何成为可能的大致介绍](https://vitalik.ca/general/2021/01/26/snarks.html)
 - [How to use KZG commitments in proofs](https://notes.ethereum.org/@dankrad/kzg_commitments_in_proofs)
+- [A quick barycentric evaluation tutorial](https://hackmd.io/@vbuterin/barycentric_evaluation)
+- [Easy proof of equivalence between multiple polynomial commitment schemes to the same data](https://ethresear.ch/t/easy-proof-of-equivalence-between-multiple-polynomial-commitment-schemes-to-the-same-data/8188)
 
 
 ### 论文和资料
