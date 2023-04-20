@@ -7,12 +7,8 @@
 
 ### 教程目录
 
-#### [零知识证明资料整理](https://github.com/0xchaineye/chaineye-savourlabs-tech/blob/main/zkp/readme.md)
-#### [零知识证明代码 1]()
-#### [零知识证明代码 2]()
-#### [零知识证明代码 3]()
-#### [零知识证明代码 4]()
-#### [零知识证明代码 5]()
+#### 1. [零知识证明资料整理](https://github.com/0xchaineye/chaineye-savourlabs-tech/blob/main/zkp/readme.md)
+#### 2. [ZKP 红宝书](https://github.com/0xchaineye/chaineye-savourlabs-tech/blob/main/substantive/readme.md)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
